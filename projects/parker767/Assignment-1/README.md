@@ -1,3 +1,1 @@
-Josh
-8/29/19
-CITA 210
+This is my assignment-1 submission!
